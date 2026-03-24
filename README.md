@@ -35,7 +35,7 @@ Developer → GitHub (Source Repo)
         ↓
    AWS EKS Cluster
         ↓
-   FastAPI Application 🚀
+   FastAPI Application 
 ```
 
 ---
